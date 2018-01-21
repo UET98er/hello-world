@@ -1,5 +1,5 @@
 # hello-world
-just another repository
+Hmm !
  
  Hi teacher !
  I am learning software technology ,and i really need your helps !
